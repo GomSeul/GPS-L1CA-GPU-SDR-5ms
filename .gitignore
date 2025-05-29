@@ -45,6 +45,9 @@ DataLog/*.bin
 # Zone Identifier files
 *.Zone.Identifier
 
+# Large PDF files
+doc/*.pdf
+
 # Temporary files
 *.tmp
 *.temp
